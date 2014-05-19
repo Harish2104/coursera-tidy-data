@@ -89,4 +89,4 @@ A data.table named `tidy` is set with the following columns.  All units are main
 
 ### Notes
 
-Source data is from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+Source data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
